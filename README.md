@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นฤพล คำตื้อ
+# STUDENT ID:670610763
